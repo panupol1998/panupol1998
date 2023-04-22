@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Panupol Untarabut
-- 👀 I’m interested in quantum computing, numerical method, material science, machine learning and etc.
+- 👀 I’m interested in material science, machine learning, numerical method, quantum computing and etc.
 - 📫 How to reach me untarabut.p@gmail.com
 
 <!---
